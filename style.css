@@ -6,5 +6,7 @@
  .container{
     @apply max-w-[1140px] mx-auto w-full overflow-hidden
  }
-  
+  * {
+  outline: 1px solid red;
+}
 }
